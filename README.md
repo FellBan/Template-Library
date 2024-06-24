@@ -2,7 +2,7 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/FellBan/MUBAN/">
+  <a href="https://github.com/FellBan/Template-Library">
     <img src="https://image.bingfong.com/images/img2409.jpg" alt="Logo" width="120" height="120">
   </a>
 
