@@ -1,0 +1,17 @@
+﻿{
+    "version":"版本号 20240624",
+    "har": {
+        "天雪☆论坛": {
+            "name": "天雪☆论坛",
+            "author": "李大爷",
+            "url": "https://github.com/FellBan/Template-Library/blob/main/%E5%A4%A9%E9%9B%AA%E2%98%86%E8%AE%BA%E5%9D%9B.har",
+            "update": true,
+            "comments": "Cookie签到",
+            "filename": "天雪☆论坛.har",
+            "content": "选填,不填则根据 filename 的值来读取对应的har文件,默认为base64编码",
+            "date": "2024年6月24日 21:15:43",
+            "version":"20240624",
+            "commenturl":"选填，模板对应的评论区，留空时不显示按钮"
+        }
+    }
+}
