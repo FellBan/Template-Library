@@ -1,17 +1,15 @@
 {
-    "version":"版本号 20240624",
+    "version": "20240624",
     "har": {
         "天雪☆论坛": {
             "name": "天雪☆论坛",
             "author": "李大爷",
-            "url": "https://github.com/FellBan/Template-Library/blob/main/%E5%A4%A9%E9%9B%AA%E2%98%86%E8%AE%BA%E5%9D%9B.har",
+            "url": "https://raw.githubusercontent.com/FellBan/Template-Library/master/天雪☆论坛.har",
             "update": true,
-            "comments": "Cookie签到",
+            "comments": "Cookie 日志显示",
             "filename": "天雪☆论坛.har",
-            "content": "选填,不填则根据 filename 的值来读取对应的har文件,默认为base64编码",
-            "date": "2024年6月24日 21:15:43",
-            "version":"20240624",
-            "commenturl":"选填，模板对应的评论区，留空时不显示按钮"
-        }
-    }
-}
+            "content": "W3sicmVxdWVzdCI6eyJtZXRob2QiOiJQT1NUIiwidXJsIjoiaHR0cHM6Ly96eGNzdHh0LmNvbS93cC1hZG1pbi9hZG1pbi1hamF4LnBocCIsImhlYWRlcnMiOlt7Im5hbWUiOiJBY2NlcHQiLCJ2YWx1ZSI6ImFwcGxpY2F0aW9uL2pzb24sIHRleHQvamF2YXNjcmlwdCwgKi8qOyBxPTAuMDEifSx7Im5hbWUiOiJBY2NlcHQtRW5jb2RpbmciLCJ2YWx1ZSI6Imd6aXAsIGRlZmxhdGUsIGJyIn0seyJuYW1lIjoiQWNjZXB0LUxhbmd1YWdlIiwidmFsdWUiOiJ6aC1DTix6aDtxPTAuOSJ9LHsibmFtZSI6IkNvbm5lY3Rpb24iLCJ2YWx1ZSI6ImtlZXAtYWxpdmUifSx7Im5hbWUiOiJDb250ZW50LUxlbmd0aCIsInZhbHVlIjoiMTkifSx7Im5hbWUiOiJDb250ZW50LVR5cGUiLCJ2YWx1ZSI6ImFwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZDsgY2hhcnNldD1VVEYtOCJ9LHsibmFtZSI6IkNvb2tpZSIsInZhbHVlIjoie3tjb29raWV9fSJ9LHsibmFtZSI6IkROVCIsInZhbHVlIjoiMSJ9LHsibmFtZSI6Ikhvc3QiLCJ2YWx1ZSI6Inp4Y3N0eHQuY29tIn0seyJuYW1lIjoiT3JpZ2luIiwidmFsdWUiOiJodHRwczovL3p4Y3N0eHQuY29tIn0seyJuYW1lIjoiUmVmZXJlciIsInZhbHVlIjoiaHR0cHM6Ly96eGNzdHh0LmNvbS8ifSx7Im5hbWUiOiJTZWMtRmV0Y2gtRGVzdCIsInZhbHVlIjoiZW1wdHkifSx7Im5hbWUiOiJTZWMtRmV0Y2gtTW9kZSIsInZhbHVlIjoiY29ycyJ9LHsibmFtZSI6IlNlYy1GZXRjaC1TaXRlIiwidmFsdWUiOiJzYW1lLW9yaWdpbiJ9LHsibmFtZSI6IlVzZXItQWdlbnQiLCJ2YWx1ZSI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMDguMC41MzU5Ljk1IFNhZmFyaS81MzcuMzYifSx7Im5hbWUiOiJYLVJlcXVlc3RlZC1XaXRoIiwidmFsdWUiOiJYTUxIdHRwUmVxdWVzdCJ9LHsibmFtZSI6InNlYy1jaC11YSIsInZhbHVlIjoiXCJOb3QtQS5CcmFuZFwiO3Y9XCIyNFwiLCBcIkNocm9taXVtXCI7dj1cIjE0XCIifSx7Im5hbWUiOiJzZWMtY2gtdWEtbW9iaWxlIiwidmFsdWUiOiI/MCJ9LHsibmFtZSI6InNlYy1jaC11YS1wbGF0Zm9ybSIsInZhbHVlIjoiXCJtYWNPU1wiIn1dLCJjb29raWVzIjpbXSwiZGF0YSI6ImFjdGlvbj11c2VyX2NoZWNraW4iLCJtaW1lVHlwZSI6ImFwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZDsgY2hhcnNldD1VVEYtOCJ9LCJydWxlIjp7InN1Y2Nlc3NfYXNzZXJ0cyI6W3sicmUiOiIyMDAiLCJmcm9tIjoic3RhdHVzIn1dLCJmYWlsZWRfYXNzZXJ0cyI6W10sImV4dHJhY3RfdmFyaWFibGVzIjpbeyJuYW1lIjoieHgiLCJyZSI6IlwibXNnXCI6XCIoLispXCIsXCJkYXRhIiwiZnJvbSI6ImNvbnRlbnQifV19fSx7ImNvbW1lbnQiOiJVbmljb2Rlv8iLCJyZXF1ZXN0Ijp7Im1ldGhvZCI6IlBPU1QiLCJ1cmwiOiJhcGk6Ly91dGlsL3VuaWNvZGUiLCJoZWFkZXJzIjpbXSwiY29va2llcyI6W10sImRhdGEiOiJodG1sX3VuZXNjYXBlPWZhbHNlJmNvbnRlbnQ9e3t4eH19In0sInJ1bGUiOnsic3VjY2Vzc19hc3NlcnRzIjpbeyJyZSI6IjIwMCIsImZyb20iOiJzdGF0dXMifSx7InJlIjoiXCH/1wiOiBcIjIwMFwiIiwiZnJvbSI6ImNvbnRlbnQifV0sImZhaWxlZF9hc3NlcnRzIjpbXSwiZXh0cmFjdF92YXJpYWJsZXMiOlt7Im5hbWUiOiJfX2xvZ19fIiwicmUiOiJcIf7/1wiOiBcIiguKilcIiIsImZyb20iOiJjb250ZW50In1dfX1d===",
+            "date": "2024-06-24 21:36:01",
+            "version": "20240624",
+            "commenturl": ""
+        },
